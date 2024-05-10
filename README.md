@@ -1,4 +1,7 @@
-
+<!---
+DarrelKarikari/DarrelKarikari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
  <!DOCTYPE html>
 <html lang="en">
@@ -94,15 +97,12 @@
         <strong>Personal Experience:</strong>
         As part of my final project for a university course called 'CP213', I wanted to demonstrate my skills in Java to create a well-imagined final project and truly make software that demonstrates my fluency in the programming language and comfortability in using it.
       </p>
-      <a href="https://ibb.co/2tndy00"><img src="https://i.ibb.co/7WYKXxx/Screenshot-2024-05-10-at-6-16-03-PM.png" alt="Screenshot-2024-05-10-at-6-16-03-PM" border="0"></a>    </div>
+      <a href="https://ibb.co/2tndy00"><img src="https://i.ibb.co/7WYKXxx/Screenshot-2024-05-10-at-6-16-03-PM.png" alt="Screenshot-2024-05-10-at-6-16-03-PM" border="0"></a>  </div>
   </div>
-<br><br><center>
+<br><br>
 
-<center>![DarrelKarikari's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrelKarikari&theme=react&show_icons=true&hide_border=true&layout=compact)</center>
+![DarrelKarikari's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrelKarikari&theme=react&show_icons=true&hide_border=true&layout=compact)
 </body>
 </html>
 
-<!---
-DarrelKarikari/DarrelKarikari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
