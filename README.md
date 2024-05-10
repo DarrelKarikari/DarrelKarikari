@@ -73,10 +73,10 @@
     <div>
       <p class="project-description">
         <strong>Project Overview:</strong>
-        Using this restaurant simulator, users may design their own menu and interact with it through an easy-to-use graphical user interface (GUI), from which they can print a physical receipt. The project calls independent classes to generate functionality and uses a PrinterJob API to access the Windows OS printing system in order to develop this GUI. Java's abstract classes and inheritance functionality are also utilised to create a Java JFrame.
+        Using this restaurant simulator, users may design their menu and interact with it through an easy-to-use graphical user interface (GUI), from which they can print a physical receipt. The project calls independent classes to generate functionality and uses a PrinterJob API to access the Windows OS printing system in order to develop this GUI. Java's abstract classes and inheritance functionality are also utilized to create a Java JFrame.
         <br><br>
         <strong>Personal Experience:</strong>
-        As part of my final project for a university course I am taking called 'CP213', I wanted to demonstrate my skills in Java to create an well imagined final project and truly make a software that demonstrates my fluency in the programming language and comfortability in using it.
+        As part of my final project for a university course called 'CP213', I wanted to demonstrate my skills in Java to create a well-imagined final project and truly make software that demonstrates my fluency in the programming language and comfortability in using it.
       </p>
       <a href="https://ibb.co/2tndy00"><img src="https://i.ibb.co/7WYKXxx/Screenshot-2024-05-10-at-6-16-03-PM.png" alt="Screenshot-2024-05-10-at-6-16-03-PM" border="0"></a>    </div>
   </div>
