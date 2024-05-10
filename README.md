@@ -96,8 +96,10 @@
       </p>
       <a href="https://ibb.co/2tndy00"><img src="https://i.ibb.co/7WYKXxx/Screenshot-2024-05-10-at-6-16-03-PM.png" alt="Screenshot-2024-05-10-at-6-16-03-PM" border="0"></a>    </div>
   </div>
+<br><br><center>
 
-
+![DarrelKarikari's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrelKarikari&theme=react&show_icons=true&hide_border=true&layout=compact)
+<center>
 </body>
 </html>
 
