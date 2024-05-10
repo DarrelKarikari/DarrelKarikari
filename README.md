@@ -79,7 +79,7 @@
         This was an enjoyable short hackathon project I worked on over a day. I spent most of my time understanding the implementation of the algorithm method, Breath First Search, using pen and paper to visualize how the sorting algorithm process takes place. I then implemented all my ideas into a correct solution, which this game ran.<br><br>
         🏆 I finished 3rd in this competitive hackathon.
       </p>
-     <img src="https://i.ibb.co/L9jr3ty/Screenshot-2024-05-10-at-6-57-07-PM.png" alt="Screenshot-2024-05-10-at-6-57-07-PM" border="0">
+    <img src="https://i.ibb.co/B44hGkQ/Screenshot-2024-05-10-at-6-57-07-PM.png" alt="Screenshot-2024-05-10-at-6-57-07-PM" border="0">
     </div>
   </div>
 
