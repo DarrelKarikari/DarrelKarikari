@@ -57,10 +57,10 @@ You can click the Preview link to take a look at your changes.
     <div>
       <p class="project-description">
         <strong>Project Overview:</strong>
-        A Java application for managing students, teachers, and grades. It is a platform where teachers and students register. On the platform, students can log in the platform to enroll in courses and see the grades they received. It is also a way for teachers to log in to the platform to view their students and give them grades.
+        A Java application for managing students, teachers, and grades. It is a software that allows teachers and students to register. On the platform, students can log in the platform to enroll in courses and see the grades they received. It is also a way for teachers to log in to the platform to view their students and give them grades.
         <br><br>
         <strong>Personal Experience:</strong>
-        Over two weeks, I worked on this enjoyable project, I worked on over two weeks. I spent most of my time understanding the implementation of retrieving data, using YouTube and many coding resources to visualize this process. I then implemented all my ideas into a code.
+        Over two weeks, I worked on this enjoyable project. I spent most of my time understanding the implementation of retrieving data, using YouTube and many coding resources to visualize this process. I then implemented all my ideas into a code.
       </p>
       <a href="https://ibb.co/WnfZYS8"><img src="https://user-images.githubusercontent.com/20374208/45230776-a66f7a00-b2d2-11e8-9900-21e8bd812cfe.jpg" alt="Screenshot-2023-11-12-001409" border="0"></a>
     </div>
@@ -72,10 +72,10 @@ You can click the Preview link to take a look at your changes.
     <div>
       <p class="project-description">
         <strong>Project Overview:</strong>
-       A Python application/game where the goal as the designer is to code the brain of a robot in the form of an Agent class to navigate a robot to a goal location and, in the advanced mode, pick up a Pod object and carry that to the goal.
+       A Python application/game where the goal as the designer is to code a robot's brain in the form of an Agent class to navigate a robot to a goal location and, in the advanced mode, pick up a Pod object and carry that to the goal.
         <br><br>
         <strong>Personal Experience:</strong>
-        This was an insightful short hackathon project I worked on over a day. I spent most of my time understanding the implementation of the algorithm method, Depth First Search, using pen and paper to visualize how the sorting algorithm process takes place. I then implemented all my ideas into a correct solution, which this game ran.<br><br>
+        This was an insightful short hackathon project I worked on over a day. I spent most of my time understanding the implementation of the algorithm method, Depth First Search, using pen and paper to visualize the sorting algorithm process. Which was then implemented into the correct solution shown.<br><br>
         🏆 I finished 3rd in this competitive hackathon.
       </p>
     <img src="https://i.ibb.co/B44hGkQ/Screenshot-2024-05-10-at-6-57-07-PM.png" alt="Screenshot-2024-05-10-at-6-57-07-PM" border="0">
