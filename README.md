@@ -75,7 +75,7 @@ You can click the Preview link to take a look at your changes.
        A Python application/game where the goal as the designer is to code the brain of a robot in the form of an Agent class to navigate a robot to a goal location and, in the advanced mode, pick up a Pod object and carry that to the goal.
         <br><br>
         <strong>Personal Experience:</strong>
-        This was an insightful short hackathon project I worked on over a day. I spent most of my time understanding the implementation of the algorithm method, Breath First Search, using pen and paper to visualize how the sorting algorithm process takes place. I then implemented all my ideas into a correct solution, which this game ran.<br><br>
+        This was an insightful short hackathon project I worked on over a day. I spent most of my time understanding the implementation of the algorithm method, Depth First Search, using pen and paper to visualize how the sorting algorithm process takes place. I then implemented all my ideas into a correct solution, which this game ran.<br><br>
         🏆 I finished 3rd in this competitive hackathon.
       </p>
     <img src="https://i.ibb.co/B44hGkQ/Screenshot-2024-05-10-at-6-57-07-PM.png" alt="Screenshot-2024-05-10-at-6-57-07-PM" border="0">
